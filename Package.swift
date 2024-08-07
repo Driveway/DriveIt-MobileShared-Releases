@@ -14,7 +14,7 @@ let package = Package(
     targets: [
         .binaryTarget(
 			name: "mobileshared",
-			url: "testurl",
-			checksum: "testchecksum")
+			url: "testurl1",
+			checksum: "testchecksum1")
     ]
 )
