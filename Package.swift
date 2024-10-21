@@ -14,7 +14,7 @@ let package = Package(
     targets: [
         .binaryTarget(
 			name: "mobileshared",
-			url: "https://github.com/Driveway/DriveIt-MobileShared-Releases/releases/download/12.11.14/mobileshared.xcframework.zip",
-			checksum: "950fc16fc26381063d2143c3187c284efb51342d2348b0e8210013d1decfae43")
+			url: "https://github.com/Driveway/DriveIt-MobileShared-Releases/releases/download/12.11.15/mobileshared.xcframework.zip",
+			checksum: "f240fb086821f7f1e8074ab3147239e0690842285b081687a021784184b2ae4f")
     ]
 )
